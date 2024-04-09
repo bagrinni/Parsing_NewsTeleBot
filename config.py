@@ -1,0 +1,2 @@
+TOKEN = '7005890974:AAHL8YHu3uNG7_ASsc8Ny37HgcaZpWbTs5o'
+URL = 'https://24.kg'
